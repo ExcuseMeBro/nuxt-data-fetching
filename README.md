@@ -1,6 +1,28 @@
-# Nuxt 3 Minimal Starter
+# Nuxt 3 Data fetching
 
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
+
+## Plan B
+
+```
+- [ ] Nuxt data fetching
+- [ ] Create new project
+- [ ] ofetch
+- [ ] $fetch()
+- [ ] useAsyncData vs useFetch
+- [ ] Data, pending & refresh (execute)
+- [ ] useFetch options
+- [ ] useFetch option functions
+- [ ] watch option
+- [ ] Query option
+- [ ] Pick option
+- [ ] Server option
+- [ ] Transform option
+- [ ] Lazy option (useLazyFetch, useLazyAsyncData)
+- [ ] Composables (useNuxtData)
+- [ ] Alternative ways for using vue projects
+- [ ] Conclusion
+```
 
 ## Setup
 
